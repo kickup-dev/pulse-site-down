@@ -5,7 +5,7 @@ export default () => (
   <Fragment>
     <Main>
       <div className="content">
-        <h1>We'll be back soon.</h1>
+        <h1>We willl be back soon.</h1>
         <p>KickUp is down for some scheduled maintenance and will be back online soon.</p>
 
       </div>

@@ -1,0 +1,9 @@
+{
+  "name": "pulse-site-down",
+  "version": 2,
+  "scope": "kickup",
+  "public": true,
+  "builds": [
+    { "src": "package.json", "use": "@now/next" }
+  ]
+}
