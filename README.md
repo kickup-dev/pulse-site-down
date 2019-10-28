@@ -1,2 +1,2 @@
-# Next Styled Theme
-A template for using Next.js with theming for styled-components. By adding a bootsrapped `_document.js` file, this boilerplate helps get you started using `next.js` with `styled-components` and themes compatible with tools like `rebass`.
+# Site Down Single Page App
+A next.js single page app to use when the KickUp site is down. Hosted on now.sh by the KickUp organization.
