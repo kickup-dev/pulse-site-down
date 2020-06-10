@@ -6,7 +6,7 @@ export default () => (
     <Main>
       <div className="content">
         <h1>We will be back soon.</h1>
-        <p>KickUp is down for some scheduled maintenance and will be back online soon.</p>
+        <p>KickUp is down for some scheduled maintenance, and we will be back online soon.</p>
 
       </div>
       <div className="illustration_container">
